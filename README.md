@@ -54,7 +54,7 @@ scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-se
 >命令关键词：随机,random
 >命令内容：无
 
-如：随机
+如：``随机``
 ### 1.3.2. 随机故事
 >命令关键词：随机,random
 >命令内容：故事, gs, tale, Tale
