@@ -27,7 +27,7 @@
 ## 1.1. 查询scp
 ### 1.1.1. 编号查询
 >命令关键词：SCP,scp
-
+>
 >命令内容：scp编号
 
 如：``scp 049``
@@ -36,6 +36,7 @@
 
 ### 1.1.2. scp名称查找
 >命令关键词：searchscp,SCP查找,scp查找,scpsearch,查找scp,查找SCP
+>
 >命令内容：scp名称
 
 scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-series ）为准
@@ -46,6 +47,7 @@ scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-se
 
 ## 1.2. 查询故事·图书馆
 >命令关键词：search,寻找,搜索
+>
 >命令内容：文章标题
 
 如：``search 现实稳定猫``
@@ -55,22 +57,26 @@ scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-se
 ## 1.3. 随机查找
 ### 1.3.1. 随机scp
 >命令关键词：随机,random
+>
 >命令内容：无
 
 如：随机
 ### 1.3.2. 随机故事
 >命令关键词：随机,random
+>
 >命令内容：故事, gs, tale, Tale
 
 如：``随机 故事``
 ## 1.4. 查找tag
 >命令关键词：tag,标签
+>
 >命令内容： 某个tag
 
 如：``tag 尸体``
 
 ## 1.5. 扔骰子
 >命令关键词：r,R,roll
+>
 >命令内容：例如1d6,1D6
 
 如：``r 1d10``
@@ -85,7 +91,7 @@ scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-se
 获得此文档链接
 ## 1.8. 关于bot
 
-版本：v1.8
+版本：v1.6
 
 功能：查询scp·故事·图书馆·随机查找·查找tag
 
