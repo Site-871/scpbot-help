@@ -84,7 +84,7 @@ scp名称以网站上的汇总名称（如 http://scp-wiki-cn.wikidot.com/scp-se
 获得此文档链接
 ## 1.8. 关于bot
 
-版本：v1.6
+版本：v1.8
 
 功能：查询scp·故事·图书馆·随机查找·查找tag
 
